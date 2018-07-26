@@ -8,7 +8,7 @@ app.config(function($routeProvider, $locationProvider) {
 			controller: "dataVisualizationController"
 		})
 		.when("/yelp", {
-			templateUrl: "playerVsPlayer.html",
+			templateUrl: "/files/main.html",
 			controller: "mainController"
 		})
 		.otherwise({
