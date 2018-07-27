@@ -1,5 +1,5 @@
 # User-Centric-Yelp-Dataset-Visualization
-<a href="http://yelpdatasetvisualization.000webhostapp.com/" target="_blank">Demo</a>
+<h1><a href="http://yelpdatasetvisualization.000webhostapp.com/" target="_blank">Demo</a></h1>
 
 The problem of the project was to apply the knowledge and standards of Data Visualization to interactively and intelligently visualize 6.52 GB of dataset provide by Yelp in such a way that user can easily filter out useful information from huge dataset those are not currently visualized by Yelp itself.
 
