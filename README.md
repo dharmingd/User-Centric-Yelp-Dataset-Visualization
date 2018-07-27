@@ -1,7 +1,5 @@
 # User-Centric-Yelp-Dataset-Visualization
-<h1><a href="http://yelpdatasetvisualization.000webhostapp.com/" target="_blank">Demo</a></h1>
-
-The problem of the project was to apply the knowledge and standards of Data Visualization to interactively and intelligently visualize 6.52 GB of dataset provide by Yelp in such a way that user can easily filter out useful information from huge dataset those are not currently visualized by Yelp itself.
+<h1><a target="_blank" href="http://yelpdatasetvisualization.000webhostapp.com/" >Demo</a></h1>
 
 The solution of the project statement is to visualize dataset based on the ratings of users instead of restaurants which is not currently being visualized by Yelp. We have preprocessed the dataset in order to make dataset user-oriented rather than restaurant-oriented. We have observed that users of Yelp are categorized based on six different attributes. Based on all six attributes, we came up with our own formula that ranks users of yelp. Based on filter dataset, we have developed interactive choropleth US map based on ratings of states for top five business categories (Restaurant, Shopping, Health &Medical, Home & Services and Beauty & Spa) of USA and interactive donut charts for comparing top users on different attributes. 
 
